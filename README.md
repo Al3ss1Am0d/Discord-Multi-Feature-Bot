@@ -34,7 +34,7 @@ It works both in **chat** and in **voice chat (VC)**, allowing messages to be sp
     ```bash
     npm install
 
-  3.Configure the .env file with your credentials:
+ 3. Configure the .env file with your credentials:
     ```bash
     TOKEN=your_bot_token
     PREFIX=!
