@@ -1,0 +1,20 @@
+{
+  "name": "discord-text-to-voice-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Al3ss1Am0d/Discord-Text-to-Voice-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Al3ss1Am0d/Discord-Text-to-Voice-Bot/issues"
+  },
+  "homepage": "https://github.com/Al3ss1Am0d/Discord-Text-to-Voice-Bot#readme"
+}
