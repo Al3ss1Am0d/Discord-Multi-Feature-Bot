@@ -1,0 +1,19 @@
+{
+  "general": {
+    "no_permission": "You don't have permission to use this command.",
+    "missing_args": "You didn't provide all required arguments.",
+    "error_generic": "An error occurred while executing this command.",
+    "only_in_guild": "This command can only be used inside a server."
+  },
+  "commands": {
+    "ping": {
+      "description": "Shows the bot latency.",
+      "reply": "Pong! Latency: {ms}ms."
+    },
+    "help": {
+      "title": "Help - Command List",
+      "footer": "Use {prefix}help <command> for details."
+    }
+  }
+}
+

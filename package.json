@@ -1,10 +1,12 @@
 {
-  "name": "discord-text-to-voice-bot",
+  "name": "discord-multi-feature-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Bot de Discord modular com moderação, economia, música, utilidades e i18n usando discord.js v14.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "deploy:commands": "node deploy-commands.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +18,26 @@
   "bugs": {
     "url": "https://github.com/Al3ss1Am0d/Discord-Text-to-Voice-Bot/issues"
   },
-  "homepage": "https://github.com/Al3ss1Am0d/Discord-Text-to-Voice-Bot#readme"
+  "homepage": "https://github.com/Al3ss1Am0d/Discord-Text-to-Voice-Bot#readme",
+  "dependencies": {
+    "@discordjs/voice": "^0.19.0",
+    "@snazzah/davey": "^0.1.9",
+    "@vitalets/google-translate-api": "^9.2.1",
+    "commandkit": "^0.1.10",
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3",
+    "fs": "^0.0.1-security",
+    "google-translate-api-x": "^10.7.2",
+    "libsodium-wrappers": "^0.8.2",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.1.11",
+    "opusscript": "^0.0.8",
+    "poru": "^5.2.0",
+    "sodium-native": "^5.0.10",
+    "stream": "^0.0.3",
+    "ytdl-core": "^4.11.5",
+    "better-sqlite3": "^12.6.2",
+    "play-dl": "^1.9.7",
+    "chalk": "^5.4.1"
+  }
 }

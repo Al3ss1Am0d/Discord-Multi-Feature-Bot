@@ -1,0 +1,19 @@
+{
+  "general": {
+    "no_permission": "Você não tem permissão para usar este comando.",
+    "missing_args": "Você não forneceu todos os argumentos necessários.",
+    "error_generic": "Ocorreu um erro ao executar este comando.",
+    "only_in_guild": "Este comando só pode ser usado dentro de um servidor."
+  },
+  "commands": {
+    "ping": {
+      "description": "Mostra a latência do bot.",
+      "reply": "Pong! Latência: {ms}ms."
+    },
+    "help": {
+      "title": "Ajuda - Lista de comandos",
+      "footer": "Use {prefix}help <comando> para ver detalhes."
+    }
+  }
+}
+

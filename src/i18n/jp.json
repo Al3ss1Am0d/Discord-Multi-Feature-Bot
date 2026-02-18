@@ -1,0 +1,19 @@
+{
+  "general": {
+    "no_permission": "このコマンドを実行する権限がありません。",
+    "missing_args": "必要な引数が足りません。",
+    "error_generic": "コマンドの実行中にエラーが発生しました。",
+    "only_in_guild": "このコマンドはサーバー内でのみ使用できます。"
+  },
+  "commands": {
+    "ping": {
+      "description": "ボットのレイテンシを表示します。",
+      "reply": "ポン！ レイテンシ: {ms}ms."
+    },
+    "help": {
+      "title": "ヘルプ - コマンド一覧",
+      "footer": "詳細は {prefix}help <コマンド> を使用してください。"
+    }
+  }
+}
+
