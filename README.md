@@ -189,7 +189,7 @@ ISC.
 
 ---
 
-## 🙏 Créditos
+## 🙏 Credits
 
 - [discord.js](https://discord.js.org/) v14
 - [@discordjs/voice](https://github.com/discordjs/voice) + [play-dl](https://github.com/play-dl/play-dl) for music
