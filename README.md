@@ -141,7 +141,7 @@ Modular Discord bot in **Node.js** with **discord.js v14**: moderation, economy,
 
 ---
 
-## 📁 Estrutura do projeto
+## 📁 Project structure
 
 ```
 ├── index.js                 # Bot entry
@@ -171,7 +171,7 @@ Modular Discord bot in **Node.js** with **discord.js v14**: moderation, economy,
 
 ---
 
-## 🤝 Contribuição
+## 🤝 Contribution
 
 1. Fork the project
 2. Create a branch: `git checkout -b feature/my-feature`
