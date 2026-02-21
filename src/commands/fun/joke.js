@@ -12,7 +12,7 @@ const JOKES = [
 ];
 
 module.exports = {
-  name: 'piada',
+  name: 'joke',
   category: 'fun',
   permissionLevel: 'user',
   data: new SlashCommandBuilder()
