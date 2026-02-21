@@ -67,7 +67,7 @@ Modular Discord bot in **Node.js** with **discord.js v14**: moderation, economy,
 | `meme` | Sends a random meme |
 | `8ball` | Magic 8-ball (yes/no question) |
 | `gif` | Searches a GIF (optional Tenor) |
-| `piada` | Tells a joke |
+| `joke` | Tells a joke |
 | `avatar` | Shows a user’s avatar |
 
 ### 🔧 Utility
@@ -101,8 +101,8 @@ Modular Discord bot in **Node.js** with **discord.js v14**: moderation, economy,
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/Al3ss1Am0d/Discord-Text-to-Voice-Bot.git
-   cd Discord-Text-to-Voice-Bot
+   git clone https://github.com/Al3ss1Am0d/Discord-Multi-Feature-Bot
+   cd Discord-Multi-Feature-Bot
    ```
 
 2. **Install dependencies**
